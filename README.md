@@ -36,7 +36,7 @@ Quit command to exit the program
 ```
 
 ### Non-Interactive Mode
-
+```
 $ echo "help" | ./console.py
 (hbnb)
 Documented commands (type help <topic>):
@@ -57,3 +57,4 @@ $ echo "all" | ./console.py
 (hbnb) []
 (hbnb) $
 $
+```
